@@ -120,7 +120,7 @@ Set the **Part II profile**: Region = Canada (Global/US/EU only if the tool targ
 
 ## Report
 
-Write the report in plain English with a short Korean summary at the top (Miyoung reads both). Sections:
+Write the report in plain English. Sections:
 
 **A. Architecture summary** — type, platforms, frameworks, backend/database, auth, hosting; client type and Part II profile; tier (full/light).
 

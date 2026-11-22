@@ -7,10 +7,6 @@
 
 The notes below say how both are applied at Small Batch Works. Nothing here is legal advice; where a law question decides whether something can ship, confirm with the client, the regulator, or a lawyer.
 
-## 한국어 요약
-
-2026-11-20부터 Small Batch Works에서 만드는 모든 애플리케이션은 출시 전에 아래 보안 감사를 거친다. 감사는 코드를 고치지 않고 읽기 전용으로 진행하며, 먼저 보고서를 낸다. 최종 판정이 **READY**일 때만 출시한다. 수정은 미영의 검토와 승인 뒤에만 하고, 수정 후에는 감사를 다시 돌린다. 앱을 만든 세션이 아닌 새 세션(또는 별도 에이전트)이 감사를 맡는다. 2026-11-22부터는 보안(Part I)과 함께 컴플라이언스(Part II: 개인정보, 스팸법, 접근성)도 같이 확인한다. 컴플라이언스 가이드는 Ontario/연방 기준이 섞여 있어서, Part II 맨 앞의 Saskatchewan 보정 내용이 우선한다. 법률 자문은 아니며, 출시 여부가 법 해석에 달린 경우 고객·규제기관·변호사에게 확인한다.
-
 ## How it's applied
 
 **When to run it**
